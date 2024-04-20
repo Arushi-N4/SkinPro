@@ -15,6 +15,8 @@ This project is a simple web application that provides skincare product recommen
 # Data Source
 
 The skincare product data is stored in a JSON file named `skinpro.json`. This file contains information about each skincare product, including its name, image URL, product URL, skin type compatibility, and targeted concerns.
-Source:-
+
+Source:-https://www.kaggle.com/datasets/arushin4/indian-skincare-dataset
+
 
 
