@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-weight: 300;
+  font-size: 1.05rem;
+  line-height: 1.6;
+  font-family: 'Poppins', sans-serif;
+  background-color: #FFE6DE;
+  color: #9e5d61;
+
+}
+
+.skincare-wrapper {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  background-color: #FFE6DE;
+
+}
+
+
+label {
+  font-weight: 500;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  color: #601d06;
+}
+
+select {
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  background-color: #f8f8f8;
+  color: #5f1b05;
+  font-size: 16px;
+  transition: border-color 0.3s ease;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+select:focus {
+  outline: none;
+  border-color: #f5a083;
+}
+
+.search-btn {
+  padding: 12px 24px;
+  border: none;
+  border-radius: 8px;
+  background-color: #f5a388;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+
+}
+
+.skincare-result {
+  margin-top: 30px;
+}
+
+.product-container {
+  display: inline-block;
+  border-radius: 1rem;
+  -webkit-border-radius: 1rem;
+  -moz-border-radius: 1rem;
+  -ms-border-radius: 1rem;
+  -o-border-radius: 1rem;
+  overflow: hidden;
+  width: 220px;
+  box-shadow: 0 4px 21px -12px rgba(0, 0, 0, 0.79);
+  margin: 10px;
+  padding: 10px;
+  background-color: #f9f2f0;
+  transition: transform 0.3s ease;
+}
+
+.product-container:hover {
+  transform: scale(1.3);
+}
+
+
+
+.product-img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  display: block;
+}
+
+.product-name {
+  margin-top: 10px;
+  font-weight: bold;
+  text-align: center;
+  color: #762206;
+}
+
+.product-link {
+  display: block;
+  text-align: center;
+  margin-top: 5px;
+}

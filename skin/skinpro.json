@@ -1,0 +1,900 @@
+
+[
+ {
+   "Skin type": "Dry",
+   "Product": "Venusia Max Intensive Moisturizing Cream",
+   "Concern": "Acne,Hydration",
+   "product_url": "https://dermatics.in/products/venusia-max-intensiv-moisturizing-cream-150gm-for-dry-and-very-dry-skin?variant=42218979492093&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1",
+   "product_pic": "https://dermatics.in/cdn/shop/files/VENUSIA_4-01.webp?v=1694864870&width=823"
+ },
+ {
+   "Skin type": "Oily,Combination",
+   "Product": "Saslic Foaming Face Wash",
+   "Concern": "Whitehead/Blackhead",
+   "product_url": "https://dermatics.in/products/cipla-saslic-foaming-face-wash-60-ml?variant=40862564909218&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1",
+   "product_pic": "https://dermatics.in/cdn/shop/files/saslic-foam-face-wash.jpg?v=1701779458&width=823"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "The Derma Co 1% Hyaluronic Sunscreen Aqua Ultra Light Gel with SPF 50 PA++++",
+   "Concern": "Sun protection",
+   "product_url": "https://amzn.to/464QBwM",
+   "product_pic": "https://m.media-amazon.com/images/I/51x3cj+-iUL._SL1200_.jpg"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Hyalugel",
+   "Concern": "Hydration",
+   "product_url": "https://www.amazon.in/Hyalugel-Hyaluronic-Acid-Gel/dp/B00VNL1IHY",
+   "product_pic": "https://thebeautyinsideout.com/wp-content/uploads/2023/12/Hyalugel.webp"
+ },
+ {
+   "Skin type": "Normal",
+   "Product": "Himalaya Neem Face Wash",
+   "Concern": "Pimples",
+   "product_url": "https://himalayawellness.in/products/himalaya-purifying-neem-face-wash",
+   "product_pic": "https://himalayawellness.in/cdn/shop/files/100-ml_1800x1800.jpg?v=1705376827"
+ },
+ {
+   "Skin type": "Normal",
+   "Product": "Mamaearth Ubtan Face Wash with Turmeric & Saffron for Tan Removal",
+   "Concern": "Pigmentation",
+   "product_url": "https://mamaearth.in/product/ubtan-face-wash-with-turmeric-saffron-for-tan-removal-150-ml",
+   "product_pic": "https://images.mamaearth.in/catalog/product/1/-/1-wid-ingredients.jpg?fit=contain&height=600"
+ },
+ {
+   "Skin type": "Normal",
+   "Product": "Kama Ayurveda Pure Rosewater",
+   "Concern": "Hydration,Irritation",
+   "product_url": "https://www.kamaayurveda.in/pure-rose-water.html?utm_source=google&utm_medium=cpc&utm_campaign=KA_PerformanceMax_EyeContour&gad_source=1&gclid=Cj0KCQiA5-uuBhDzARIsAAa21T9SdKRxr4J1lS2DWBO8Pc5fvPpI8E004K6qbv1nRWbKqtWPV8FIOVMaAgPLEALw_wcB",
+   "product_pic": "https://sslimages.shoppersstop.com/sys-master/images/he2/hf5/15036541370398/9869167_UNMAPPED.jpg_136Wx204H"
+ },
+ {
+   "Skin type": "Normal",
+   "Product": "Simple Kind to Skin Moisturizing Facial Wash",
+   "Concern": "Hydration, Irritation",
+   "product_url": "https://www.simpleskincare.com/us/en/products/cleansers/kind-to-skin-moisturizing-facial-wash.html",
+   "product_pic": "https://www.simpleskincare.com/sk-eu/content/dam/brands/simple/canada_united_statesofamerica/2322887-087300700076-01.jpg.rendition.680.680.jpg"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Emolene",
+   "Concern": "Hydration",
+   "product_url": "https://pharmeasy.in/online-medicine-order/emolene-cream-100gm-10991?pincode=600056",
+   "product_pic": "https://assets.truemeds.in/Images/ProductImage/TM-COOM1-002754/EMOLENE-CREAM-100-GM_1.webp"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Requil Ceramide and Hyaluronic acid moisturizer",
+   "Concern": "Hydration",
+   "product_url": "https://www.reequil.com/products/ceramide-hyaluronic-acid-moisturiser-for-normal-to-dry-skin?variant=32318313791620&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gclid=Cj0KCQiA5-uuBhDzARIsAAa21T9PTTnZe-Ei_eTypZ28QZn0BrTzN3PhI--m_snHhkVltD3jks-cQagaAu5KEALw_wcB",
+   "product_pic": "https://cdn3.foxy.in/media/product_category/transparent_image/856/untitled_design_7.png?nan=nan&format=png&width=512"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Simple replenishing rich moisturiser",
+   "Concern": "Hydration",
+   "product_url": "https://www.simpleskincare.in/products/replenishing-rich-moisturiser-with-glycerin-pro-vit-b5-125ml",
+   "product_pic": "https://www.simpleskincare.in/cdn/shop/files/27276_S1-8901030954122_1000x1000.jpg?v=1691569143"
+ },
+ {
+   "Skin type": "Dry,Oily,Normal,Combination,Sensitive",
+   "Product": "Foxtale One Zit Wonder Acne Spot Corrector Gel",
+   "Concern": "Acne",
+   "product_url": "https://www.purplle.com/product/foxtale-one-zit-wonder-acne-spot-corrector-gel-15ml",
+   "product_pic": "https://media6.ppl-media.com//tr:h-750,w-750,c-at_max,dpr-2/static/img/product/364556/foxtale-one-zit-wonder-acne-spot-corrector-gel-15ml_1_display_1694434088_af8fcd3a.jpg"
+ },
+ {
+   "Skin type": "Sensitive,Oily",
+   "Product": "RE' EQUIL Oxybenzone and OMC Free Sunscreen For Oily, Sensitive & Acne Prone Skin, SPF 50 ",
+   "Concern": "Sun protection",
+   "product_url": "https://amzn.to/3cDuELu",
+   "product_pic": "https://m.media-amazon.com/images/I/61G2-cfMdwL._SL1500_.jpg"
+ },
+ {
+   "Skin type": "Oily",
+   "Product": "Dr. Sheth's Haldi & Hyaluronic Acid Sunscreen",
+   "Concern": "Sun protection",
+   "product_url": "https://www.drsheths.com/products/haldi-hyaluronic-acid-sunscreen-50-g",
+   "product_pic": "https://www.drsheths.com/cdn/shop/files/white-BG-only_1_600x.jpg?v=1696316754"
+ },
+ {
+   "Skin type": "Dry,Oily,Normal,Combination,Sensitive",
+   "Product": "Minimalist 2% Salicylic Acid Serum For Acne, Blackheads & Open Pores",
+   "Concern": "Acne,Whitehead/Blackhead",
+   "product_url": "https://beminimalist.co/products/salicylic-acid-2",
+   "product_pic": "https://beminimalist.co/cdn/shop/products/SalicylicAcid2_1200-1-min_2048x.png?v=1646458899"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "2% Niacinamide & Rice Water SPF 50 PA+++ Hybrid Sunscreen",
+   "Concern": "Sun protection",
+   "product_url": "https://plumgoodness.com/products/plum-2-niacinamide-rice-water-spf-50-pa-sunscreen-reduces-blemishes-brightens-skin-protects-from-uva-uvb-rays-fragrance-free-all-skin-types-100-vegan?variant=40571613773884&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gclid=Cj0KCQiA5-uuBhDzARIsAAa21T_WgisbYWRWHmSzk4nQUxSGShGSNIQYak0Viz5nTlDrA3todIYpeLEaAqizEALw_wcB",
+   "product_pic": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto/07ea8f119d010c413b00d4fa8a8c3955"
+ },
+ {
+   "Skin type": "Combination,Oily",
+   "Product": "Dot & Key Watermelon Cooling SPF 50 Sunscreen",
+   "Concern": "Sun protection",
+   "product_url": "https://www.dotandkey.com/products/watermelon-cooling-spf-50-face-sunscreen",
+   "product_pic": "https://m.media-amazon.com/images/I/515m3DeXWhL.jpg"
+ },
+ {
+   "Skin type": "Oily",
+   "Product": "Klm Klin Face Wash",
+   "Concern": "Acne",
+   "product_url": "https://www.clinikally.com/products/klm-klin-face-wash",
+   "product_pic": "https://www.clinikally.com/cdn/shop/products/KlmKlinFaceWash_03.jpg?v=1666961809&width=1000"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Evion Cream with Aloe Vera & Vitamin E (1%)",
+   "Concern": "Dark Spots",
+   "product_url": "https://www.1mg.com/otc/evion-cream-with-aloe-vera-vitamin-e-1-for-skin-health-otc90624",
+   "product_pic": "https://m.media-amazon.com/images/I/416YVL9gGaS._AC_UF1000,1000_QL80_.jpg"
+ },
+ {
+   "Skin type": "Oily,Combination",
+   "Product": "Moduseb Moist Moisturiser",
+   "Concern": "Hydration",
+   "product_url": "https://phimedy.com/products/moduseb-moist-moisturiser?variant=41215175295028&currency=INR&utm_source=GoogleSearch&utm_medium=&utm_content=c&utm_term=&utm_campaign=LL_Remarketing&gad_source=1&gclid=Cj0KCQiA5-uuBhDzARIsAAa21T95dG3cMtznfAS2mMn9NKxO7tiGLkLeBU1b3DF_qZMHXwVZ2ItryhMaAhYCEALw_wcB",
+   "product_pic": "https://phimedy.com/cdn/shop/products/1ModusebMoistMoisturiser.jpg?v=1673073139&width=1000"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Rivela Tint Sunscreen Lotion SPF 50",
+   "Concern": "Sun protection",
+   "product_url": "https://www.clinikally.com/products/rivela-tint-sunscreen-lotion-spf-50",
+   "product_pic": "https://www.clinikally.com/cdn/shop/products/rivelatintspf50.jpg?v=1668422385&width=1000"
+ },
+ {
+   "Skin type": "Oily",
+   "Product": "Aziclear Anti Acne Facial Cleanser",
+   "Concern": "Acne",
+   "product_url": "https://www.clinikally.com/products/aziclear-anti-acne-facial-cleanser",
+   "product_pic": "https://www.clinikally.com/cdn/shop/products/AziclearAntiAcneFacialCleanser_01.jpg?v=1663071047&width=1000"
+ },
+ {
+   "Skin type": "Sensitive",
+   "Product": "Juniper Berry Oil Free Moisturiser",
+   "Concern": "Pimples",
+   "product_url": "https://aromamagic.com/products/juniper-berry-oil-free-moisturiser",
+   "product_pic": "https://aromamagic.com/cdn/shop/products/CM103086-1_900x.jpg?v=1681899528"
+ },
+ {
+   "Skin type": "Sensitive",
+   "Product": "Kama Aryuveda Nimrah Anti Acne Face Pack",
+   "Concern": "Acne",
+   "product_url": "https://www.kamaayurveda.in/nimrah-anti-acne-face-pack.html",
+   "product_pic": "https://static.kamaayurveda.in/cdn-cgi/image/width=1080,format=auto/pub/media/catalog/product/cache/378129b977c0447474b52f397234ee02/n/i/nimrah-40g_3.png"
+ },
+ {
+   "Skin type": "Sensitive,Oily",
+   "Product": "Forest Essentials Delicate Facial Cleanser Kashmiri Saffron & Neem",
+   "Concern": "Acne",
+   "product_url": "https://www.forestessentialsindia.com/delicate-facial-cleanser-kashmiri-saffron-neem-new.html",
+   "product_pic": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/74c1057f7991b4edb2bc7bdaa94de933/8/8/8878-delicate-facial-cleanser-kashmiri-saffron-_-neem-200ml_fornt.png"
+ },
+ {
+   "Skin type": "Oily",
+   "Product": "Blynds SPF 40 sunscreen",
+   "Concern": "Sun protection",
+   "product_url": "https://www.amazon.in/Blynds-Emulgel-Sunscreen-Gel-50g/dp/B08TBW5NX7/ref=asc_df_B08TBW5NX7/?tag=googleshopdes-21&linkCode=df0&hvadid=396986085558&hvpos=&hvnetw=g&hvrand=15571254795346750795&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9062215&hvtargid=pla-1186180634044&psc=1&mcid=33431b857d743611b27a6cbef2e01d56&ext_vrnc=hi&gclid=Cj0KCQiA5-uuBhDzARIsAAa21T-qAfCjmT9zPoXCY-7aquJlWqL1vrJHj-fypkMn-DkiNxtcjmBjc7oaAk4yEALw_wcB",
+   "product_pic": "https://m.media-amazon.com/images/I/5194CGDq85L._SX522_.jpg"
+ },
+ {
+   "Skin type": "Normal",
+   "Product": "Dr.Sheth's Haldi & Hyaluronic Acid Sleeping Mask",
+   "Concern": "Hydration",
+   "product_url": "https://www.drsheths.com/collections/all/products/haldi-hyaluronic-acid-sleeping-mask",
+   "product_pic": "https://m.media-amazon.com/images/I/61HIciizLsL._AC_UF1000,1000_QL80_.jpg"
+ },
+ {
+   "Skin type": "Combination",
+   "Product": "Dr.Sheth's Liquorice & Lactic Acid Peel",
+   "Concern": "Pigmentation",
+   "product_url": "https://www.drsheths.com/collections/all/products/liquorice-lactic-acid-peel-30g",
+   "product_pic": "https://palette.tatacliq.com/_next/image?url=https%3A%2F%2Fimg.tatacliq.com%2Fimages%2Fi11%2F658Wx734H%2FMP000000017569274_658Wx734H_202305170149161.jpeg&w=3840&q=75"
+ },
+ {
+   "Skin type": "Normal,Combination",
+   "Product": "Tamanu, Kakadu Plum and Frankincense Face Wash",
+   "Concern": "Pigmentation",
+   "product_url": "https://juicychemistry.com/products/tamanu-kakadu-plum-frankincense-organic-face-wash",
+   "product_pic": "https://juicychemistry.com/cdn/shop/files/Tamanu_KakaduPlumandFrankincenseFaceWash_100ml_1024x1024.jpg?v=1690279888"
+ },
+ {
+   "Skin type": "Normal,Combination,Oily,Dry,Sensitive",
+   "Product": "Acnedew Anti Acne & Anti Pimple Cream",
+   "Concern": "Pimples",
+   "product_url": "https://www.1mg.com/otc/acnedew-anti-acne-anti-pimple-cream-otc750347",
+   "product_pic": "https://rukminim2.flixcart.com/image/850/1000/k6jnfrk0/moisturizer-cream/r/f/f/75-antiacne-antipimple-acnedew-cream-original-imafzzasfv4eqaqx.jpeg?q=20&crop=false"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Deriva Cms Gel",
+   "Concern": "Acne",
+   "product_url": "https://www.1mg.com/drugs/deriva-cms-gel-156191",
+   "product_pic": "https://www.skinpharmacy.in/wp-content/uploads/2020/11/DERIVA-CMS-GEL-600x600.jpg"
+ },
+ {
+   "Skin type": "Dry,Sensitive,Combination",
+   "Product": "Kojivit Ultra Gel",
+   "Concern": "Dark Spots,Pigmentation",
+   "product_url": "https://www.1mg.com/otc/kojivit-ultra-gel-otc329851",
+   "product_pic": "https://www.clickoncare.com/cdn/shop/products/buy-kojivit-ultra-cream-8174779703.jpg?v=1681806294"
+ },
+ {
+   "Skin type": "Normal,Oily",
+   "Product": "SBL Silk N Stay Aloe Vera Cream",
+   "Concern": "Hydration",
+   "product_url": "https://www.1mg.com/otc/sbl-silk-n-stay-aloe-vera-cream-for-normal-oily-skin-otc328964",
+   "product_pic": "https://onemg.gumlet.io/l_watermark_346,w_480,h_480/a_ignore,w_480,h_480,c_fit,q_auto,f_auto/c0b4b163544a4e09868027b8c63c71ac.jpg"
+ },
+ {
+   "Skin type": "Oily",
+   "Product": "Ultra-light Liquid Moisturiser",
+   "Concern": "Hydration",
+   "product_url": "https://www.simpleskincare.in/products/ultra-light-liquid-moisturiser-with-thyme-witch-hazel-60ml",
+   "product_pic": "https://www.simpleskincare.in/cdn/shop/files/11_1000x1000.jpg?v=1705059025"
+ },
+ {
+   "Skin type": "Oily,Combination",
+   "Product": "Cerene Illuminating water cream",
+   "Concern": "Hydration,Broken barrier",
+   "product_url": "https://www.worldofcerene.com/products/illuminating-water-cream",
+   "product_pic": "https://www.worldofcerene.com/cdn/shop/products/Blue.jpg?v=1653613147&width=1946"
+ },
+ {
+   "Skin type": "Normal,Dry,Sensitive",
+   "Product": "Cerene Hydrating Cloud Cream",
+   "Concern": "Hydration,Broken barrier",
+   "product_url": "https://www.worldofcerene.com/products/hydrating-cloud-cream",
+   "product_pic": "https://www.worldofcerene.com/cdn/shop/products/Orange.jpg?v=1665390508&width=1946"
+ },
+ {
+   "Skin type": "Oily,Combination",
+   "Product": "Barrier Relief LIGHTWEIGHT CERAMIDE MOISTURIZER",
+   "Concern": "Hydration,Broken barrier",
+   "product_url": "https://theformularx.com/products/barrier-relief-moisturizer",
+   "product_pic": "https://theformularx.com/cdn/shop/files/barrier_relief_ceramide_moisturizer.png?v=1708348211"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Air Brush Facial ALL IN ONE LACTIC ACID EXFOLIATOR",
+   "Concern": "Hydration,Exfoliation",
+   "product_url": "https://theformularx.com/products/air-brush-facial-lactic-acid-serum",
+   "product_pic": "https://theformularx.com/cdn/shop/files/AIRBRUSHFACIAL.jpg?v=1691583253"
+ },
+ {
+   "Skin type": "Oily,Combination",
+   "Product": "2% BHA Exfoliator SALICYLIC ACID 2% + NIACINAMIDE\n",
+   "Concern": "Whitehead/Blackhead,Exfoliation",
+   "product_url": "https://theformularx.com/products/2-bha-exfoliator-salicylic-acid-niacinamide",
+   "product_pic": "https://theformularx.com/cdn/shop/files/BHAEXFOLIATOR.jpg?v=1691584362"
+ },
+ {
+   "Skin type": "Combination",
+   "Product": "Amrit – Face Serum Mist- Hyaluronic & Probiotics",
+   "Concern": "Acne,Dark Spots",
+   "product_url": "https://amayranatural.in/product/probiotics-hydrating-face-toner-mist-serum/",
+   "product_pic": "https://amayranatural.in/wp-content/uploads/2022/04/1-6.png"
+ },
+ {
+   "Skin type": "Dry,Normal",
+   "Product": "Soultree Nourishing Cream - Saffron & Almond Oil with Natural Vitamin E",
+   "Concern": "Hydration",
+   "product_url": "https://www.soultree.in/collections/normal-skin-type/products/nourishing-cream-saffron-almond-oil-with-natural-vitamin-e-50g",
+   "product_pic": "https://m.media-amazon.com/images/I/31BzBVMtDzL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingTHREEANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA574%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg"
+ },
+ {
+   "Skin type": "Oily",
+   "Product": "Ilana Clarifying & Calming Night Gel with Niacinamide, Green Tea and Cica",
+   "Concern": "Hydration,Broken barrier",
+   "product_url": "https://vanitywagon.in/collections/ilana/products/ilana-clarifying-and-calming-night-gel-with-niacinamide-green-tea-and-cica",
+   "product_pic": "https://vanitywagon.in/cdn/shop/products/Ilana_Clarifying_Calming_Night_Gel_with_Niacinamide_Green_Tea_and_Cica-1_618x618.jpg?v=1668066032"
+ },
+ {
+   "Skin type": "Oily,Combination",
+   "Product": "Kaya Purifying Cleanser - Acne Prone Skin - Salicylic Acid",
+   "Concern": "Acne",
+   "product_url": "https://www.kaya.in/kaya-acne-free-purifying-cleanser-50ml.html",
+   "product_pic": "https://ik.imagekit.io/wlfr/wellness/images/products/352063-1.jpg/tr:w-3840,dpr-1,c-at_max,cm-pad_resize,ar-1210-700,pr-true,f-webp,q-80,l-image,i-Wellness_logo_BDwqbQao9.png,lfo-bottom_right,w-200,h-90,c-at_least,cm-pad_resize,l-end"
+ },
+ {
+   "Skin type": "Oily,Dry",
+   "Product": "PROTEGO 46 MINERAL SUNSCREEN",
+   "Concern": "Sun protection",
+   "product_url": "https://peaucare.in/products/protego-46-mineral-sunscreen-for-dry-skin",
+   "product_pic": "https://peaucare.in/cdn/shop/files/Peaucareimg.jpg?v=1704877173&width=800"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Dr.Sheth's Shea Butter & Amino Acid Multitasking Cream ",
+   "Concern": "Broken barrier",
+   "product_url": "https://www.drsheths.com/collections/all/products/shea-butter-amino-acid-multitasking-cream-50g",
+   "product_pic": "https://www.drsheths.com/cdn/shop/files/SheaButterAminoAcid_1st.jpg?v=1702462884"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Dr.Sheth's Centella & Niacinamide Serum",
+   "Concern": "Broken barrier",
+   "product_url": "https://www.drsheths.com/collections/all/products/centella-niacinamide-serum",
+   "product_pic": "https://www.drsheths.com/cdn/shop/products/Image.jpg?v=1668337489"
+ },
+ {
+   "Skin type": "Sensitive",
+   "Product": "Vitamin C Brightening Serum VITAMIN C 10% + ARBUTIN 2% + NAG 2%",
+   "Concern": "Pigmentation",
+   "product_url": "https://theformularx.com/products/vitamin-c-10-arbutin-2-n-acetylglucosamine-2",
+   "product_pic": "https://theformularx.com/cdn/shop/files/vitamin_c_serum.jpg?v=1708351741"
+ },
+ {
+   "Skin type": "Dry ",
+   "Product": "Malazia HYDRA VEIL GEL MOISTURIZER ",
+   "Concern": "Acne",
+   "product_url": "https://theformularx.com/products/malazia-hydra-veil-gel-moisturizer",
+   "product_pic": "https://theformularx.com/cdn/shop/files/hydraveil_moisturizer.jpg?v=1708351794"
+ },
+ {
+   "Skin type": "Dry,Sensitive",
+   "Product": "Barrier Plus PEPTIDE CERAMIDE MOISTURIZER",
+   "Concern": "Hydration,Broken barrier,Irritation",
+   "product_url": "https://theformularx.com/products/peptide-ceramide-moisturizer-barrier-plus",
+   "product_pic": "https://theformularx.com/cdn/shop/files/barrier_plus_peptide_ceramide_moisturizer.png?v=1708348525"
+ },
+ {
+   "Skin type": "Dry,Normal,Oily,Combination",
+   "Product": "6% AHA BHA Exfoliator 5% Glycolic acid + 1% Salicylic acid",
+   "Concern": "Whitehead/Blackhead,Exfoliation",
+   "product_url": "https://theformularx.com/collections/treat/products/6-aha-bha-exfoliator-glycolic-salicylic-acid",
+   "product_pic": "https://theformularx.com/cdn/shop/files/AHABHAEXFOLIATOR.jpg?v=1691585215"
+ },
+ {
+   "Skin type": "Oily",
+   "Product": "Dr.Sheth's Neem & Salicylic Acid Face Wash",
+   "Concern": "Whitehead/Blackhead,Exfoliation",
+   "product_url": "https://www.drsheths.com/collections/all/products/neem-salicylic-acid-face-wash",
+   "product_pic": "https://www.drsheths.com/cdn/shop/products/Neem-_-Salicylic-Acid-Face-Wash-1_77b0d08b-c841-4525-a0a0-b40c9caba88b.jpg?v=1681578426"
+ },
+ {
+   "Skin type": "Dry,Normal",
+   "Product": "DOUSE BARRIER REPAIR FACE CREAM",
+   "Concern": "Hydration",
+   "product_url": "https://peaucare.in/products/douse-barrier-repair-face-cream",
+   "product_pic": "https://peaucare.in/cdn/shop/files/Douse.jpg?v=1705066668&width=800"
+ },
+ {
+   "Skin type": "Oily",
+   "Product": "INVISIBLE SUNSCREEN SPF 40 PA +++ SUNSCREEN FOR OILY SKIN",
+   "Concern": "Sun protection",
+   "product_url": "https://www.amazon.in/CleanseMe-Hydrating-Sensitive-Allantoin-Colloidal/dp/B092Q78ZVF?crid=3DMT6T0GG89NG&dib=eyJ2IjoiMSJ9.aat1fUJJhD_CJmT3Nd5TOBu2DuUUz4LKR6Ud7volTx4TN2in65YvwHInCJvaCLum7I0HvCQWug-pA5X1dKpcA-tQkeghlzZ28cI4nzF-xC20XooKy9b43IAbIS5AM9rBF1dgta5dTs2-hkG92Nen8wRAMn0F86NyFdSAsLhow8DBIh3NxtljkfTMMpVNvh0tS-9_y0zvwu1yBtJHHN6uoyAWITw3sZqBRdyRHptk2c29YTnqPLl4AKPfcqL5K5KGuOhS-UQiTGD1GdxqYNrF2JoblXl1nYQywx6ZG9Vg80g.SKY7vuvZxoesDOCnevBPycbFZyiLn0RC89wZ9ujw9F4&dib_tag=se&keywords=cleanse%2Bme&qid=1709181163&sprefix=cleanse%2Bm%2Caps%2C307&sr=8-5&th=1&linkCode=ll1&tag=thebeautyinout-21&linkId=c106d3cea95f337d5cc9c77a98e5ad83&language=en_IN&ref_=as_li_ss_tl",
+   "product_pic": "https://peaucare.in/cdn/shop/files/Invisiblesunscreen.jpg?v=1705062585&width=800"
+ },
+ {
+   "Skin type": "Dry,Sensitive",
+   "Product": "NOURRIR CleanseMe Gentle Skin Cleanser Face wash",
+   "Concern": "Broken barrier,Hydration",
+   "product_url": "https://www.forestessentialsindia.com/aloevera-juice-new.html",
+   "product_pic": "https://thebeautyinsideout.com/wp-content/uploads/2023/11/CleanseMe-Cleanser.jpg"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Forest Essentials Aloevera Juice",
+   "Concern": "Hydration",
+   "product_url": "https://earthrhythm.com/products/vitamin-e-intense-nourish-cream-day",
+   "product_pic": "https://img.forestessentialsindia.com/pub/media/catalog/product/cache/0ee050c3ffc3555709b9bb6062f4d7e9/8/8/8891_aloevera_juice_130_ml_front_copy_1.png"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Earth Rhythm VITAMIN E INTENSE NOURISH DAY CREAM",
+   "Concern": "Broken barrier",
+   "product_url": "",
+   "product_pic": "https://earthrhythm.com/cdn/shop/products/vitE.jpg?v=1685354937&width=1000"
+ },
+ {
+   "Skin type": "Normal",
+   "Product": "PHYTO CERAMIDE DEEP MOISTURIZER",
+   "Concern": "Hydration",
+   "product_url": "https://earthrhythm.com/products/phyto-ceramide-deep-moisturiser",
+   "product_pic": "https://earthrhythm.com/cdn/shop/products/PhytoCeramideMoisturiser.jpg?v=1666941556&width=1000"
+ },
+ {
+   "Skin type": "Normal",
+   "Product": "The Derma Co Pore Minimizing Priming Sunscreen with SPF 50 & PA+++ ",
+   "Concern": "Pores",
+   "product_url": "https://thedermaco.com/product/pore-minimizing-priming-sunscreen-with-spf-50-pa-for-open-pores-uva-uvb-protection-50g",
+   "product_pic": "https://images.thedermaco.com/catalog/product/1/0/1080x1080-4.jpg?auto=format&fit=contain&width=720&auto=compress"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination",
+   "Product": "The Derma Co 2% Salicylic Acid Serum ",
+   "Concern": "Whitehead/Blackhead,Acne",
+   "product_url": "https://thedermaco.com/product/2-salicylic-acid-serum",
+   "product_pic": "https://images.thedermaco.com/catalog/product/1/s/1st.jpg?auto=format&fit=contain&width=720&auto=compress"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "The Derma Co Pore Minimizing Face Serum with 4% Niacinamide, 5% PHA and p-REFINYL ",
+   "Concern": "Pores",
+   "product_url": "https://thedermaco.com/product/pore-minimizing-face-serum-with-4-niacinamide-5-pha-and-p-refinylr-30-ml",
+   "product_pic": "https://images.thedermaco.com/catalog/product/p/o/pore-minimizing-face-serum.jpg?auto=format&fit=contain&width=720&auto=compress"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "The Derma Co Pore Minimizing Daily Face Moisturizer with 3% Niacinamide 3% PHA and p-REFINYL",
+   "Concern": "Pores",
+   "product_url": "https://thedermaco.com/product/pore-minimizing-daily-face-moisturizer-with-3-niacinamide-3-pha-and-p-refinylr-50-g",
+   "product_pic": "https://images.thedermaco.com/catalog/product/p/o/pore-minimizing-moisturizer_2.jpg?auto=format&fit=contain&width=720&auto=compress"
+ },
+ {
+   "Skin type": "Oily",
+   "Product": "Green Tea Pore Cleansing Complete Range Combo with AHA BHA PHA Peel",
+   "Concern": "Acne",
+   "product_url": "https://plumgoodness.com/products/green-tea-pore-cleansing-complete-range-combo-with-aha-bha-pha-peel-fights-pimples-control-excess-oil-for-oily-acne-prone-skin-100-vegan?variant=40645606146108&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1&gclid=CjwKCAiAuYuvBhApEiwAzq_YiXYvBTJec7TuXBjcvzCCrH7yZ4tQy_8F0zeyEHq9OpURay3Ai6Lv0hoCA9UQAvD_BwE",
+   "product_pic": "https://plumgoodness.com/cdn/shop/files/01_4_27917af7-addd-44c1-9c48-08669a6ba020.jpg?v=1689146773&width=900"
+ },
+ {
+   "Skin type": "Oily,Sensitive,Combination",
+   "Product": "The Derma Co 2% Niacinamide Oily Skin Cleanser ",
+   "Concern": "Pigmentation,Dark Spots",
+   "product_url": "https://thedermaco.com/product/2-niacinamide-oily-skin-cleanser-for-sensitive-oily-combination-skin-125-ml",
+   "product_pic": "https://images.thedermaco.com/catalog/product/2/-/2-niacinamide_oily_skin_cleanser_for_sensitive_oily_combination_skin.png?auto=format&fit=contain&width=720&auto=compress"
+ },
+ {
+   "Skin type": "Sensitive,Combination",
+   "Product": "The Derma Co Pore Minimizing Clay Daily Face Wash with 1% Niacinamide & 2% PHA ",
+   "Concern": "Pores",
+   "product_url": "https://thedermaco.com/product/pore-minimizing-clay-daily-face-wash-with-1-niacinamide-2-pha-100-ml",
+   "product_pic": "https://images.thedermaco.com/promotional/faq-image/Pore%20Minimizing%20Clay%20Daily%20Face%20Wash.jpg"
+ },
+ {
+   "Skin type": "Normal,Sensitive",
+   "Product": "The Derma Co 2% Kojic Acid Cream",
+   "Concern": "Pigmentation",
+   "product_url": "https://thedermaco.com/product/kojic-acid-cream",
+   "product_pic": "https://images.thedermaco.com/promotional/faq-image/2_%20Kojic%20Acid%20Face%20Cream.jpg"
+ },
+ {
+   "Skin type": "Normal",
+   "Product": "Mamaearth Beetroot Hydraful Moisturizer With Beetroot & Hyaluronic Acid",
+   "Concern": "Hydration",
+   "product_url": "https://mamaearth.in/product/beetroot-hydraful-hyaluronic-acid-face-moisturizer-50ml",
+   "product_pic": "https://images.mamaearth.in/catalog/product/1/-/1-with-ingredients_4.jpg?format=auto&height=600"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "The Derma Co 2% Hyalacalamine Hydrating Sunscreen For UVA/UVB Protection with SPF 50 & PA+++",
+   "Concern": "Sun protection",
+   "product_url": "https://thedermaco.com/product/2-hyalacalamine-hydrating-sunscreen-for-uva-uvb-protection-with-spf-50-pa-50g",
+   "product_pic": "https://images.thedermaco.com/promotional/2%25%20Hyalacalamine%20Hydrating%20Sunscreen%20For%20UVA%3AUVB%20Protection%20with%20SPF%2050%20-%20FAQ%20Image.jpg"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "Kama Aryuveda Rose Jasmine Face Cleanser",
+   "Concern": "Hydration",
+   "product_url": "https://www.kamaayurveda.in/rose-jasmine-face-cleanser.html",
+   "product_pic": "https://static.kamaayurveda.in/cdn-cgi/image/width=640,format=auto/pub/media/catalog/product/cache/378129b977c0447474b52f397234ee02/r/j/rj-face-cleanser_50ml_600x600px_1.png"
+ },
+ {
+   "Skin type": "Normal,Dry",
+   "Product": "Sun’nil Jojoba-Grapeseed Moisturising Sun Protection Lotion",
+   "Concern": "Sun protection,Broken barrier",
+   "product_url": "https://www.justherbs.in/collections/sun-protection/products/sun-nil-jojoba-grapeseed-moisturising-sun-protection-lotion?variant=29251600875597",
+   "product_pic": "https://www.justherbs.in/cdn/shop/products/Sun_nilJojoba-GrapeseedMoisturisingSunProtectionLotion_1280x.jpg?v=1658402085"
+ },
+ {
+   "Skin type": "Sensitive,Combination",
+   "Product": "Ethiglo Face Wash",
+   "Concern": "Pigmentation,Dark Spots",
+   "product_url": "https://www.apollopharmacy.in/otc/ethiglo-face-wash-200g?utm_source=google&utm_medium=srnb&campaignid=17659451421&adgroupid=&keyword=&device=c&adtype=pla&product_id=ETH0217&utm_campaign=PMax_Pharma_Farming_Smart-Shopping_P2Cities&utm_content=%5Badgroup%5D&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7qpRwvMD40O_H18NR2J06pM--Bg3eaop_cLhQ2JqRms8nISiVoyASBoCI84QAvD_BwE",
+   "product_pic": "https://m.media-amazon.com/images/I/519ArTw261L.jpg"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "Melaglow Rich Cream",
+   "Concern": "Dark Spots",
+   "product_url": "https://dermatics.in/products/melaglow-rich-cream-20-gm?variant=43668185612541&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1",
+   "product_pic": "https://cdn.shopify.com/s/files/1/0594/0297/7442/files/MelaglowRichCream_01.webp?v=1703074734"
+ },
+ {
+   "Skin type": "Oily",
+   "Product": "ZitMoist Gel For Acne Prone Skin",
+   "Concern": "Acne",
+   "product_url": "https://dermatics.in/products/zitmoist-gel-for-acne-prone-skin-50gm?variant=40879422275746&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&gad_source=1",
+   "product_pic": "https://dermatics.in/cdn/shop/files/51K7z67K07L._SL1200.jpg?v=1704371359&width=823"
+ },
+ {
+   "Skin type": "Normal,Dry,Sensitive",
+   "Product": "Dot & Key Barrier Repair Gentle Hydrating Face Wash",
+   "Concern": "Broken barrier",
+   "product_url": "https://www.dotandkey.com/products/dot-key-barrier-repair-gentle-hydrating-face-wash-with-5-essential-ceramides-hyaluronic-ph-5-5-fragrance-sulphate-free-for-sensitive-dry-skin?utm_source=google&utm_medium=paid&utm_campaign=18108354709&utm_content=&utm_term=&gadid=&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7kgMoJfxXOwIigK9NaU7iJNuVfqeJfD5i1w0bfA76B7vvy63PZf28BoC_iUQAvD_BwE",
+   "product_pic": "https://m.media-amazon.com/images/I/51BRMqAlHEL.jpg"
+ },
+ {
+   "Skin type": "Oily",
+   "Product": "IPCA Acne-OC Sebum Regulating Moisturizer",
+   "Concern": "Acne,Hydration",
+   "product_url": "https://www.clinikally.com/products/ipca-acne-oc-moisturiser?currency=INR&variant=41250887631011&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&stkn=aa4fff04d0da&utm_campaign=P-Max&utm_source=Google&utm_medium=Shopping+Ad&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7ni_s8i8raWQEBfP-0HZ93Zo2_9qjy411aW6vOjf2kz62fyTLf-OuRoC9twQAvD_BwE",
+   "product_pic": "https://www.clinikally.com/cdn/shop/products/ipcaacne-ocmoisturizer_03.jpg?v=1665216200&width=1000"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "Glambak Skin Glowing & Rejuvenating Face Wash",
+   "Concern": "Exfoliation",
+   "product_url": "https://www.amazon.in/Glambak-Skin-Glowing-Rejuvenating-100gm/dp/B09VFDDBZ9/ref=asc_df_B09VFDDBZ9/?tag=googleshopdes-21&linkCode=df0&hvadid=586332797663&hvpos=&hvnetw=g&hvrand=13732075783628803494&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9040242&hvtargid=pla-1675315755781&psc=1&mcid=9aed500d45cd359187d735b331cac79a&gclid=CjwKCAiA6KWvBhAREiwAFPZM7sfWKh9gnJPg7nHg_AJ6EgfKjmnIXGaoitx2_xkUzv1fcqM9-TcLyBoCTZUQAvD_BwE",
+   "product_pic": "https://m.media-amazon.com/images/I/41N-esULktL.jpg"
+ },
+ {
+   "Skin type": "Normal,Dry",
+   "Product": "AirGel NMF-15% Moisturiser",
+   "Concern": "Hydration",
+   "product_url": "https://mycosiq.com/products/airgel-nmf-15-moisturiser-for-dry-skin-100ml",
+   "product_pic": "https://mycosiq.com/cdn/shop/products/airgel-nmf-15-moisturiser-for-dry-skin-100ml-470764.jpg?v=1673130386&width=1100"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily",
+   "Product": "Foxtale Essentials Multivitamin Rose Mist & Toner",
+   "Concern": "Hydration,Broken barrier",
+   "product_url": "https://www.nykaa.com/foxtale-essentials-multivitamin-rose-mist-toner/p/13237690?ptype=product&skuId=13237690&utm_content=ads&utm_source=GooglePaid&utm_medium=PLA&utm_campaign=PerformanceMaxSkin_P1Brands&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7kjmTJrlTweH_U3_Kv8EDhAw-B3xihlGmEchuoed2pFsT3ObHNdGLBoCfhkQAvD_BwE",
+   "product_pic": "https://m.media-amazon.com/images/I/71Ym59-JfrL.jpg"
+ },
+ {
+   "Skin type": "Sensitive",
+   "Product": "Foxtale Hydrating Face Wash",
+   "Concern": "Hydration",
+   "product_url": "https://foxtale.in/collections/shop/products/the-daily-duet-cleanser?_gl=1*jvatjb*_up*MQ..&gclid=CjwKCAiA6KWvBhAREiwAFPZM7hCCGXSuFykKdcgc3hByTBJx_gxc77mwDsjxrZ3kZkmEUuOVkGyArxoCRj4QAvD_BwE",
+   "product_pic": "https://cdn.shopify.com/s/files/1/0609/6096/4855/files/Product_1_PNG_3.png?v=1683790703"
+ },
+ {
+   "Skin type": "Sensitive",
+   "Product": "Foxtale Acne Control Cleanser with Salicylic Acid",
+   "Concern": "Acne",
+   "product_url": "https://foxtale.in/collections/shop/products/acne-control-cleanser?_gl=1*15p3ss3*_up*MQ..&gclid=CjwKCAiA6KWvBhAREiwAFPZM7hCCGXSuFykKdcgc3hByTBJx_gxc77mwDsjxrZ3kZkmEUuOVkGyArxoCRj4QAvD_BwE",
+   "product_pic": "https://cdn.kindlife.in/images/detailed/115/1_cqhr-4r.jpg?t=1692435307"
+ },
+ {
+   "Skin type": "Sensitive",
+   "Product": "Dr.Sheth's Cica & Ceramide Overnight Repair Serum ",
+   "Concern": "Broken barrier",
+   "product_url": "https://www.drsheths.com/products/dr-sheths-cica-ceramide-overnight-repair-serum-30ml",
+   "product_pic": "https://m.media-amazon.com/images/I/51t+j7V7g1S._AC_UF1000,1000_QL80_.jpg"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Elovera Cream",
+   "Concern": "Hydration,Broken barrier",
+   "product_url": "https://pharmeasy.in/health-care/products/elovera-moisturizer-tube-of-75-g-11837?isSEM=True&utm_source=google&utm_medium=cpc&utm_campaign=DSA_Elovera_OTC_Brand&utm_adgroup=Elovera_Brand&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7nF9VhtLx2_WJLiHuYAFU7k9UWyKfEEx3b-BQMv_QcTV5dkbti7yqhoCETQQAvD_BwE",
+   "product_pic": "https://cdn01.pharmeasy.in/dam/products_otc/241829/elovera-moisturizer-tube-of-75-g-2-1685975282.jpg?dim=700x0&dpr=1&q=100"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "REJUGLOW Face Wash",
+   "Concern": "Pimples,Acne",
+   "product_url": "https://www.amazon.in/REJUGLOW-Face-Wash-100-ml/dp/B08B57MKSL?th=1",
+   "product_pic": "https://www.emedbucket.com/emedpro_img/uploads/product/main/humaridawai/1624619776_125154_0.jpg"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "Lotus Herbals ALPHAMOIST Skin Renewal Oil Free Moisturiser",
+   "Concern": "Broken barrier",
+   "product_url": "https://www.lotusherbals.com/products/alphamoist-skin-renewal-oil-free-moisturiser",
+   "product_pic": "https://www.lotusherbals.com/cdn/shop/products/Lotus-Herbals1556-copy_600x.png?v=1688805230"
+ },
+ {
+   "Skin type": "Combination",
+   "Product": "Dot & Key Vitamin C + E SPF 50 Sunscreen",
+   "Concern": "Sun protection",
+   "product_url": "https://www.dotandkey.com/products/dot-key-vitamin-c-e-spf-50-pa-face-sunscreen-for-glowing-skin-uv-protection-for-dull-skin",
+   "product_pic": "https://m.media-amazon.com/images/I/51JDnu4MOvL._AC_UF1000,1000_QL80_.jpg"
+ },
+ {
+   "Skin type": "Combination",
+   "Product": "Bello New Photostable Sunscreen Emulgel SPF 55+/PA++++",
+   "Concern": "Sun protection",
+   "product_url": "https://www.clinikally.com/products/bello-new-photostable-sunscreen-emulgel",
+   "product_pic": "https://www.clinikally.com/cdn/shop/products/BelloNewPhotostableSunscreenEmulgel_03.jpg?v=1660060644&width=1000"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "Svashudhi Charcoal Face pack",
+   "Concern": "Whitehead/Blackhead,Pores",
+   "product_url": "https://svashudhi.com/products/charcoal-pack",
+   "product_pic": "https://svashudhi.com/cdn/shop/files/CharcoalFacepack10801080_1024x1024.png?v=1690899749"
+ },
+ {
+   "Skin type": "Oily,Combination",
+   "Product": "Zscreen Zinc Oxide Sunscreen Gel",
+   "Concern": "Sun protection",
+   "product_url": "https://pharmeasy.in/health-care/products/z-screen-sunscreen-gel-50ml-173540",
+   "product_pic": "https://www.cureka.com/wp-content/uploads/2019/11/Layer_19-5-1-600x600.jpg"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "Elements Wellness 3 in 1 Face Wash  with Tea Tree Oil & Vitamin E",
+   "Concern": "Acne,Pimples",
+   "product_url": "https://www.bigvalueshop.com/product/elements-wellness-3-in-1-face-wash/",
+   "product_pic": "https://www.bigvalueshop.com/wp-content/uploads/2020/11/Elements-Wellness-3-in-1-Face-Wash_cover-768x698.jpeg"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "PURE ELEMENTS Neem Clove Anti Acne Face Wash Neemwash Neem & Clove Ultra Purifying Face Wash",
+   "Concern": " Acne ",
+   "product_url": "https://www.amazon.in/ELEMENTS-Clove-Neemwash-Ultra-Purifying/dp/B0B1ZXD73B/ref=sr_1_8?dib=eyJ2IjoiMSJ9.Efu80Gf5Em9RBxGB6jZy3V64Acb4dM5U0nzaLwIDtLt4R195jFpI85TYDfpmUdjo-52rr9WCUXVvgkr7a7e5EVgqfWd5YrP0pLe3BvHnYdhNUIeRR7CJxkdJuEVxVRk7JEQ_uN4ZtnUlJVE5FyeRLFHIEheCLti6gqFY9lw62tFyiVty9glDiDtWoI83mUxFUaDHrMYe6KsboD_yxgXi_Cy5OuBdy9Lsd5do4OMoSo0FkzEOVibX9b8BVfrXxBoYH6_yHpr-fehpGjWcWTe3TejFllqZ2MJFqb28XZE-Bp0.-_XoypLjpEOzsG9h1GehS_5ZxmuVTjJDfpjQqhg0WZ0&dib_tag=se&keywords=elements+face+wash&qid=1709867819&sr=8-8",
+   "product_pic": "https://m.media-amazon.com/images/I/61MrSL1SaIL._SX522_.jpg"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Indus Valley Ultra Rich Replenishing Face Scrub ",
+   "Concern": "Dark Spots",
+   "product_url": "https://www.buyindusvalley.in/collections/scrubs/products/ultra-rich-replanishing-shea-butter-fruit-scrub",
+   "product_pic": "https://www.buyindusvalley.in/cdn/shop/products/FaceScrub.jpg?v=1643959302"
+ },
+ {
+   "Skin type": "Normal, Oily, Sensitive, Dry, Combination",
+   "Product": "Kama Aryuveda Anti Acne Spot Corrector",
+   "Concern": "Acne",
+   "product_url": "https://www.kamaayurveda.in/anti-acne-spot-corrector.html",
+   "product_pic": "https://static.kamaayurveda.in/cdn-cgi/image/width=640,format=auto/pub/media/catalog/product/cache/378129b977c0447474b52f397234ee02/a/n/anti-acne-spot-corrector-15ml-tube_600x600px.png"
+ },
+ {
+   "Skin type": "Sensitive",
+   "Product": "Kama Aryuveda Sensitive Skin Cleansing Foam",
+   "Concern": "Irritation,Skin soothing",
+   "product_url": "https://www.kamaayurveda.in/sensitive-skin-cleansing-foam.html",
+   "product_pic": "https://static.kamaayurveda.in/cdn-cgi/image/width=640,format=auto/pub/media/catalog/product/cache/378129b977c0447474b52f397234ee02/n/e/new-mini-catalogue-images_sensitive-skin-cleansing-foam_800x800px.png"
+ },
+ {
+   "Skin type": "Sensitive",
+   "Product": "Mamaearth Anti-Pollution Daily Face Cream ",
+   "Concern": "Acne",
+   "product_url": "https://trykiya.com/products/mamaearth-anti-pollution-daily-face-cream-80gm",
+   "product_pic": "https://trykiya.com/cdn/shop/products/10-anti-pollution-daily-face-cream-80gm-1.jpg?v=1674631392&width=823"
+ },
+ {
+   "Skin type": "Combination",
+   "Product": "La Pink White Haldi Ubtan Face Mask ",
+   "Concern": "Pigmentation,Acne",
+   "product_url": "https://www.myntra.com/mask-and-peel/la+pink/la-pink-white-haldi-ubtan-face-mask-with-kesar-sandalwood--barley-extract---100gm/23906538/buy",
+   "product_pic": "https://m.media-amazon.com/images/I/61TyjJgHmFL._AC_UF1000,1000_QL80_.jpg"
+ },
+ {
+   "Skin type": "Normal, Oily, Sensitive, Dry, Combination",
+   "Product": "Mcaffeine Hydra Repair Kombucha Tea Sunscreen SPF 50 PA++++ with Ceramides",
+   "Concern": "Sun protection,Hydration",
+   "product_url": "https://www.mcaffeine.com/products/kombucha-hydra-repair-sunscreen-spf-50-pa-with-hyaluronic-acid-ceramide-50-ml",
+   "product_pic": "https://cdn01.pharmeasy.in/dam/products_otc/T44216/mcaffeine-kombucha-hydra-repair-sunscreen-spf-50-pa-50ml-2-1702875929.jpg"
+ },
+ {
+   "Skin type": "Dry,Combination",
+   "Product": "Aquasoft FC Advanced Facial Cream",
+   "Concern": "Irritation",
+   "product_url": "https://www.clinikally.com/products/aquasoft-fc-advance-facial-cream?currency=INR&variant=44113696620791&utm_medium=cpc&utm_source=google&utm_campaign=Google%20Shopping&stkn=aa4fff04d0da&utm_campaign=P-Max&utm_source=Google&utm_medium=Shopping+Ad&gad_source=1&gclid=Cj0KCQiArrCvBhCNARIsAOkAGcXHfxdTAp2ayRm1HKsY9aaj8zG2ixMdzWtD_JqvBsDYadyOIXeVaXIaAjOAEALw_wcB",
+   "product_pic": "https://www.clinikally.com/cdn/shop/files/Aquasoftfcadvancedfacialcream60g_2.jpg?v=1699437254&width=1000"
+ },
+ {
+   "Skin type": "Oily,Combination",
+   "Product": "Excela Moisturiser for Oily & Acne Prone Skin",
+   "Concern": "Acne",
+   "product_url": "https://www.clinikally.com/products/excela-moisturiser-for-oily-acne-prone-skin",
+   "product_pic": "https://www.clinikally.com/cdn/shop/products/Excelamoisturiser50g.jpg?v=1668666817&width=1000"
+ },
+ {
+   "Skin type": "Sensitive,Oily",
+   "Product": "Acnemoist Cream ",
+   "Concern": "Acne",
+   "product_url": "https://www.1mg.com/otc/acnemoist-cream-for-sensitive-acne-prone-oily-skin-otc340541",
+   "product_pic": "https://images.apollo247.in/pub/media/catalog/product/A/C/ACN0181_1_3.jpg"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Plum Grape Seed & Sea Buckthorn Renaissance Face Mask",
+   "Concern": "Irritation,Skin soothing",
+   "product_url": "https://plumgoodness.com/products/grape-seed-sea-buckthorn-renaissance-face-mask",
+   "product_pic": "https://plumgoodness.com/cdn/shop/products/6.GSSBFaceMask-1.jpg?v=1630923727&width=900"
+ },
+ {
+   "Skin type": "Normal,Combination",
+   "Product": "Plum Chamomile & White Tea Plush Night Souffle",
+   "Concern": "Hydration",
+   "product_url": "https://plumgoodness.com/products/chamomile-white-tea-plush-night-souffle",
+   "product_pic": "https://plumgoodness.com/cdn/shop/products/9.CWTNight-1.jpg?v=1630920190&width=900"
+ },
+ {
+   "Skin type": "Oily",
+   "Product": "Plum Phy Green Tea Face Mask",
+   "Concern": "Acne",
+   "product_url": "https://plumgoodness.com/products/phy-green-tea-face-mask-for-oily-acne-prone-skin",
+   "product_pic": "https://plumgoodness.com/cdn/shop/products/GT-Face-Mask_Website-Images_01.jpg?v=1689148743&width=900"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination",
+   "Product": "Plum Grape Seed & Sea Buckthorn Mild Foam Scrub\n",
+   "Concern": "Exfoliation",
+   "product_url": "https://plumgoodness.com/products/grape-seed-sea-buckthorn-mild-foam-scrub-1",
+   "product_pic": "https://plumgoodness.com/cdn/shop/products/3.GSSBScrub-1.jpg?v=1630923703&width=900"
+ },
+ {
+   "Skin type": "Oily,Combination",
+   "Product": "Plum Green Tea Gentle Revival Face Scrub",
+   "Concern": "Exfoliation",
+   "product_url": "https://plumgoodness.com/products/green-tea-gentle-revival-face-scrub",
+   "product_pic": "https://plumgoodness.com/cdn/shop/products/1.GTScrub-1.jpg?v=1630923648&width=900"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "Plum Bulgarian Valley Rose Water Toner",
+   "Concern": "Skin soothing,Pores",
+   "product_url": "https://plumgoodness.com/products/bulgarian-valley-rose-water-toner-100-ml",
+   "product_pic": "https://plumgoodness.com/cdn/shop/products/02whitebackground_2.png?v=1630923278&width=900"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "Plum 3% PHA Toner with Blueberry",
+   "Concern": "Pores",
+   "product_url": "https://plumgoodness.com/products/pha-toner-with-blueberry",
+   "product_pic": "https://plumgoodness.com/cdn/shop/products/WBG_Front_c539682b-9500-45ce-90fb-4e601c3cddfd.jpg?v=1689138232&width=900"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "Plum 1% Oat & Allantoin Deep Nourish Face Wash",
+   "Concern": "Broken barrier",
+   "product_url": "https://plumgoodness.com/products/1-oat-allantoin-deep-nourish-face-wash-nourishes-soothes-protects-skin-restores-skin-barrier-non-drying-with-vitamin-f-b5-100-vegan",
+   "product_pic": "https://m.media-amazon.com/images/I/61oB7c35MtL.jpg"
+ },
+ {
+   "Skin type": "Dry,Normal,Sensitive",
+   "Product": "Plum Hello Aloe Caring Day Moisturizer",
+   "Concern": "Skin soothing",
+   "product_url": "https://plumgoodness.com/products/hello-aloe-caring-day-moisturizer",
+   "product_pic": "https://plumgoodness.com/cdn/shop/products/3.HAMoisturizer-1.jpg?v=1630925406&width=900"
+ },
+ {
+   "Skin type": "Combination",
+   "Product": "Pratha Beige Multani Clay",
+   "Concern": "Whitehead/Blackhead",
+   "product_url": "https://www.myntra.com/mask-and-peel/pratha/pratha-beige-multani-clay-/15533928/buy",
+   "product_pic": "https://5.imimg.com/data5/SELLER/Default/2021/3/TT/AH/TX/98413722/multani-clay-250x250.jpg"
+ },
+ {
+   "Skin type": "Oily",
+   "Product": "Tattvalogy Saraswati River Basin Dead Sea Mud Clay Face Mask ",
+   "Concern": "Acne",
+   "product_url": "https://www.myntra.com/mask-and-peel/tattvalogy/tattvalogy-cruelty-free--vegan-saraswati-river-basin-dead-sea-mud-clay-face-mask---175-g/19222500/buy",
+   "product_pic": "https://cdn.shopify.com/s/files/1/0328/8134/4651/products/Rhassoul-Clay-white-100g-1_384x384.jpg?v=1630041986"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "La Pink White Haldi Face Toner with Kakadu Plum",
+   "Concern": "Acne",
+   "product_url": "https://www.myntra.com/toner/la+pink/la-pink-ideal-bright-white-haldi-face-toner-with-kakadu-plum---100-ml/23916812/buy",
+   "product_pic": "https://rukminim2.flixcart.com/image/850/1000/xif0q/toner/n/q/u/100-ideal-bright-face-toner-100-microplastic-free-white-haldi-original-imagzfyhcgjsg54n.jpeg?q=20&crop=false"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "Ponds Super Light Gel Oil Free Moisturiser With Hyaluronic Acid + Vitamin E",
+   "Concern": "Hydration",
+   "product_url": "https://www.amazon.in/Moisturizer-Hyaluronic-Hydration-Non-Sticky-Instantly/dp/B09Z6TJP7Y",
+   "product_pic": "https://m.media-amazon.com/images/I/510hKTXuPpL._AC_UF1000,1000_QL80_.jpg"
+ },
+ {
+   "Skin type": "Dry",
+   "Product": "VELOMOSK Deep Moisturiser with Grapeseed Oil & Honey",
+   "Concern": "Hydration",
+   "product_url": "https://www.myntra.com/day-cream/velomosk/velomosk-deep-moisturiser-with-grapeseed-oil--honey-100-ml/18329050/buy",
+   "product_pic": "https://m.media-amazon.com/images/I/41AiZJAtI9L._SL1000_.jpg"
+ },
+ {
+   "Skin type": "Sensitive",
+   "Product": "Fixderma Cleovera Paraben Free Skin Moisturizer Cream with Aloe Vera",
+   "Concern": "Skin soothing",
+   "product_url": "https://www.myntra.com/day-cream/fixderma/fixderma-cleovera-paraben-free-skin-moisturizer-cream-with-aloe-vera---60gm/16804422/buy",
+   "product_pic": "https://m.media-amazon.com/images/I/41VI+e75dYL.jpg"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "Luxura Sciences Salicylic Acid 2% Face Serum, Niacinamide Serum",
+   "Concern": "Whitehead/Blackhead",
+   "product_url": "https://www.amazon.in/dp/B08NVW51KQ/ref=cm_sw_r_cp_apa_glt_fabc_dl_53EWFCZ4GZAYPX8184F0",
+   "product_pic": "https://m.media-amazon.com/images/I/61mSd+KfhKL._SL1294_.jpg"
+ },
+ {
+   "Skin type": "Oily,Combination",
+   "Product": "Deconstruct Breakout Control D.S. Serum",
+   "Concern": "Whitehead/Blackhead",
+   "product_url": "https://thedeconstruct.in/products/breakout-control-double-strength-serum",
+   "product_pic": "https://m.media-amazon.com/images/I/61J8X+XmNzL.jpg"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "Lacto Calamine Face Toner With Cucumber",
+   "Concern": "Irritation",
+   "product_url": "https://www.amazon.in/Lacto-Calamine-Cucumber-Niacinamide-hydrated/dp/B09S6L8ZPJ?crid=1O5GL5BBXB9GR&keywords=toner+oily+skin&qid=1697870060&sprefix=Toner+oi,aps,222&sr=8-7&linkCode=sl1&tag=1312199908-21&linkId=e427bd42b415a232d43eb0f6641b13d6&language=en_IN&ref_=as_li_ss_tl",
+   "product_pic": "https://m.media-amazon.com/images/I/51XfFgsBFjL._SL1500_.jpg"
+ },
+ {
+   "Skin type": "Oily",
+   "Product": "RE' EQUIL Oil Control Face Wash",
+   "Concern": "Broken barrier,Hydration",
+   "product_url": "https://www.amazon.in/Reequil-Sulphate-Controls-Excessive-Production/dp/B07GKRYL18?crid=2DS1OC0LVKFMU&keywords=oily+skin+face+wash&qid=1697869959&sprefix=oily+skin+face+wash,aps,213&sr=8-12&linkCode=sl1&tag=1312199908-21&linkId=dc047d295eedacf31dedad4e84466263&language=en_IN&ref_=as_li_ss_tl",
+   "product_pic": "https://m.media-amazon.com/images/I/51T9AxpQefL._SL1500_.jpg"
+ },
+ {
+   "Skin type": "Combination",
+   "Product": "BeBodywise 1% Peptide & Ceramide Moisturizer",
+   "Concern": "Broken barrier",
+   "product_url": "https://bebodywise.com/product/1-peptide-ceramide-moisturizer",
+   "product_pic": "https://images-static.nykaa.com/media/catalog/product/8/c/8c1b8eeBEBOD00000008_1abc.jpg?tr=w-500"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "BeBodywise Broad Spectrum SPF 30 Sunscreen",
+   "Concern": "Sun protection",
+   "product_url": "https://bebodywise.com/product/broad-spectrum-sunscreen",
+   "product_pic": "https://m.media-amazon.com/images/I/61XbOyaqdAL.jpg"
+ },
+ {
+   "Skin type": "Sensitive",
+   "Product": "Pure Bubbles Niacinamide & Zinc PCA Facewash",
+   "Concern": "Acne",
+   "product_url": "https://purebubblesskincare.com/products/niacinamide-zinc-pca-face-wash",
+   "product_pic": "https://purebubblesskincare.com/cdn/shop/products/niacinamide-zinc-pca-facewash-175342.jpg?v=1708783709&width=990"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "Pure Bubbles Bamboo Charcoal Face Wash",
+   "Concern": "Acne",
+   "product_url": "https://purebubblesskincare.com/products/bamboo-charcoal-face-wash",
+   "product_pic": "https://purebubblesskincare.com/cdn/shop/products/bamboo-charcoal-face-wash-324536.jpg?v=1709792705&width=990"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily",
+   "Product": "Pure Bubbles 5% Vitamin C Brightening Skin Serum",
+   "Concern": "Pigmentation",
+   "product_url": "https://purebubblesskincare.com/products/vitamin-c-brightening-skin-serum-all-skin-types",
+   "product_pic": "https://www.jiomart.com/images/product/original/rvslbwimed/pure-bubbles-skincare-vitamin-c-brightening-skin-serum-30-ml-product-images-orvslbwimed-p596484848-0-202303260653.png?im=Resize=(1000,1000)"
+ },
+ {
+   "Skin type": "Dry,Sensitive",
+   "Product": "Fixderma Shadow  SPF 50 + Cream",
+   "Concern": "Sun protection",
+   "product_url": "https://www.fixderma.com/products/shadow-sunscreen-for-dry-skin-spf-50-cream",
+   "product_pic": "https://www.skinpharmacy.in/wp-content/uploads/2020/11/SHADOW-SPF50-75GM.png"
+ },
+ {
+   "Skin type": "Oily",
+   "Product": "Fixderma Shadow Sunscreen A-Gel SPF 30",
+   "Concern": "Sun protection",
+   "product_url": "https://www.fixderma.com/products/shadow-sunscreen-a-gel-spf-30",
+   "product_pic": "https://m.media-amazon.com/images/I/41JB+DWOZ9L._SY300_SX300_.jpg"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "Fixderma 10% Tranexamic Acid Pigment Correcting Face Serum",
+   "Concern": "Pigmentation,Dark Spots",
+   "product_url": "https://www.fixderma.com/products/tranexamic-acid-serum-for-pigmentation",
+   "product_pic": "https://5.imimg.com/data5/SELLER/Default/2023/8/333346490/KQ/TS/HR/25501738/fixderma-pigment-correcting-face-serum-for-melasma-acne-spots-15g.jpg"
+ },
+ {
+   "Skin type": "Dry,Combination,Oily,Sensitive",
+   "Product": "Suganda SQUALANE CLEANSING OIL",
+   "Concern": "Pores,Skin soothing",
+   "product_url": "https://suganda.co/products/squalane-cleansing-oil?variant=39981780140107",
+   "product_pic": "https://suganda.co/cdn/shop/products/SCO_Final_1280x.jpg?v=1679744110"
+ },
+ {
+   "Skin type": "Dry, Sensitive, Combination",
+   "Product": "Suganda HYDRATING OAT PHA CLEANSER",
+   "Concern": "Hydration,Irritation",
+   "product_url": "https://suganda.co/products/hydrating-oat-pha-cleanser",
+   "product_pic": "https://suganda.co/cdn/shop/products/HydratingOatPHACleanser_1280x.jpg?v=1680262001"
+ },
+ {
+   "Skin type": "Normal,Dry,Combination,Oily,Sensitive",
+   "Product": "Suganda TOTAL DEFENCE SUNSCREEN SPF 50 PA++++ with Antioxidants",
+   "Concern": "Sun protection,Irritation",
+   "product_url": "https://suganda.co/products/total-defence-sunscreen?variant=40037479219275",
+   "product_pic": "https://suganda.co/cdn/shop/files/Slide_01copy_2_1280x.jpg?v=1689339568"
+ }
+]
+

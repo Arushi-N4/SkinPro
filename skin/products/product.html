@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Find Skincare Products</title>
+  <link rel="stylesheet" href="product.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/js/all.min.js"
+    integrity="sha512-B3Zo0ffOxjU7+bGcCWEW5+RYE6b4mg2ijPbyTT3KDfyV9h0T0hq8C2oFgLusqKx4gF4oQ/sEX0WpV1U7lUGmdA=="
+    crossorigin="anonymous"></script>
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="skincare-wrapper">
+      <div class="skincare-search">
+        <h2 class="title">Find Skincare Products</h2>
+        <div class="skincare-search-box">
+          <label for="skinType">Select Skin Type:</label>
+          <select id="skinType">
+            <option value="Dry">Dry</option>
+            <option value="Oily">Oily</option>
+            <option value="Combination">Combination</option>
+            <option value="Normal">Normal</option>
+            <option value="Sensitive">Sensitive</option>
+          </select>
+          <br>
+          <label for="concern">Select Concern:</label>
+          <select id="concern">
+            <option value="Acne">Acne</option>
+            <option value="Hydration">Hydration</option>
+            <option value="Whitehead/Blackhead">Whitehead/Blackhead</option>
+            <option value="Sun protection">Sun protection</option>
+            <option value="Pimples">Pimples</option>
+            <option value="Pigmentation">Pigmentation</option>
+            <option value="Irritation">Irritation</option>
+            <option value="Irritation">Broken barrier</option>
+            <option value="Irritation">Pores</option>
+          </select><br>
+          <button type="button" class="search-btn btn" id="search-btn">
+            <i class="fas fa-search"></i> Find Products
+          </button>
+        </div>
+      </div>
+
+      <div class="skincare-result">
+        <h2 class="title">Your Recommended Products:</h2>
+        <div id="products">
+
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="../products/script.js"></script>
+</body>
+
+</html>
